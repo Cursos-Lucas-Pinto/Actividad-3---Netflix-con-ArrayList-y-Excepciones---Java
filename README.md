@@ -1,4 +1,4 @@
-<h1>Enunciado</h1>
+<h1>Enunciado:</h1>
 
 Desarrollar un código de Java siguiendo los pasos a continuación:
 
